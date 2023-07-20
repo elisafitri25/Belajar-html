@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th {
+    border: 1px solid;
+  }
+  .border1{
+    width: 100px;
+    margin: 0 auto;
+  }
+  .Customer{
+    font-weight: bold;
+  }
+  .table1{
+    text-align: left;
+  }
+  .table2{
+    text-align: right;
+  }
+  .results{
+    text-align: right;
+    font-weight: bold;
+  }
+  
